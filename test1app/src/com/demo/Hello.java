@@ -1,4 +1,4 @@
-package test1app;
+package com.demo;
 
 public class Hello {
 
